@@ -33,6 +33,7 @@ $students = [
 ];
 ?>
 
+//create table taht display the data $student    
 <table>
     <tr>
         <th>Name</th>
